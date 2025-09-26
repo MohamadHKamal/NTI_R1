@@ -1,8 +1,14 @@
-env/
-
+# Python
 __pycache__/
-
-*.png
-*.wav
-*.mp3
-*.mp4
+*.pyc
+.env
+.env.*
+.fdiivenv
+.fdiivenv.*
+.history
+# Models, jobs, big files
+models/
+jobs/
+*.ckpt
+*.pth
+.DS_Store
