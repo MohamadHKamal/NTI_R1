@@ -1,3 +1,12 @@
-torch 
-opencv-python-headless 
-ffmpeg-python 
+# Core dependencies for current implemented modules
+numpy
+opencv-python-headless
+mediapipe
+
+
+
+# Note: FFmpeg is required as a system dependency (not Python package)
+# Install instructions:
+# Windows: choco install ffmpeg  
+# macOS: brew install ffmpeg
+# Linux: sudo apt install ffmpeg
