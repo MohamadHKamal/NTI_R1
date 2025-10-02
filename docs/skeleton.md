@@ -16,8 +16,8 @@ root/
 │  ├─ synthetic_face_generation/
 │  │  ├─ generate_dtwin_brushnet.py   
 │  │  └─ generate_dtwin_cloud.py      
-│  ├─ video_integration/
-│  │  └─ animate_fomm.py      
+│  ├─ motion_animation/
+│  │  └─ animate.py      
 │  ├─ evaluation/
 │  │  └─ evaluate.py          
 │  └─ deployment/
