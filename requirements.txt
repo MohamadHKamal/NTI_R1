@@ -3,6 +3,19 @@ numpy
 opencv-python-headless
 mediapipe
 
+#faceGeneration
+torch==2.2.2+cu118
+torchvision==0.17.2+cu118
+torchaudio==2.2.2+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+diffusers==0.29.0
+transformers==4.44.2
+safetensors==0.4.5
+Pillow
+facenet-pytorch
+accelerate==0.34.2
+xformers==0.0.25
+#numpy 1.26.4
 
 
 # Note: FFmpeg is required as a system dependency (not Python package)
